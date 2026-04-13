@@ -1,32 +1,32 @@
-characterValue1 = 'A'
-print("The integer value of", characterValue1, "is", ord(characterValue1))
+character_value1 = 'A'
+print("The integer value of", character_value1, "is", ord(character_value1))
 
-characterValue2 = 'B'
-print("The integer value of", characterValue2, "is", ord(characterValue2))
+character_value2 = 'B'
+print("The integer value of", character_value2, "is", ord(character_value2))
 
-characterValue3 = 'C'
-print("The integer value of", characterValue3, "is", ord(characterValue3))
+character_value3 = 'C'
+print("The integer value of", character_value3, "is", ord(character_value3))
 
-characterValue4 = 'D'
-print("The integer value of", characterValue4, "is", ord(characterValue4))
+character_value4 = 'D'
+print("The integer value of", character_value4, "is", ord(character_value4))
 
-characterValue5 = 'b'
-print("The integer value of", characterValue5, "is", ord(characterValue5))
+character_value5 = 'b'
+print("The integer value of", character_value5, "is", ord(character_value5))
 
-characterValue6 = 'c'
-print("The integer value of", characterValue6, "is", ord(characterValue6))
+character_value6 = 'c'
+print("The integer value of", character_value6, "is", ord(character_value6))
 
-characterValue7 = 'd'
-print("The integer value of", characterValue7, "is", ord(characterValue7))
+character_value7 = 'd'
+print("The integer value of", character_value7, "is", ord(character_value7))
 
-characterValue8 = '0'
-print("The integer value of", characterValue8, "is", ord(characterValue8))
+character_value8 = '0'
+print("The integer value of", character_value8, "is", ord(character_value8))
 
-characterValue9 = '1'
-print("The integer value of", characterValue9, "is", ord(characterValue9))
+character_value9 = '1'
+print("The integer value of", character_value9, "is", ord(character_value9))
 
-characterValue10 = '2'
-print("The integer value of", characterValue10, "is", ord(characterValue10))
+character_value10 = '2'
+print("The integer value of", character_value10, "is", ord(character_value10))
 
-characterValue11 = '$'
-print("The integer value of", characterValue11, "is", ord(characterValue11))
+character_value11 = '$'
+print("The integer value of", character_value11, "is", ord(character_value11))
