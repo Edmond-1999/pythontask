@@ -1,4 +1,4 @@
-studentGrade = int(input("Enter your grade: "))
+student_grade = int(input("Enter your grade: "))
 
-if studentGrade >= 90:
-    print("Congratulations! Your grade of", studentGrade, "earns you an A in this course")
+if student_grade >= 90:
+    print("Congratulations! Your grade of", student_grade, "earns you an A in this course")
