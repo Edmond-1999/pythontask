@@ -1,4 +1,4 @@
 print("Number	Square	Cube")
 
-for currentNumber in range(6):
-    print(currentNumber, currentNumber * currentNumber, currentNumber * currentNumber * currentNumber, sep="\t")
+for current_number in range(6):
+    print(current_number, current_number * current_number, current_number * current_number * current_number, seperator="\t")
