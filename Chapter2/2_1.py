@@ -1,7 +1,7 @@
-firstNumber = 2
-secondNumber = 3
+first_number = 2
+second_number = 3
 
-print("firstNumber =", firstNumber)
-print("Value of firstNumber + secondNumber is", firstNumber + secondNumber)
+print("firstNumber =", first_number)
+print("Value of firstNumber + secondNumber is", first_number + second_number)
 print("firstNumber =")
-print(firstNumber + secondNumber, "=", secondNumber + firstNumber)
+print(first_number + second_number, "=", second_number + first_number)
