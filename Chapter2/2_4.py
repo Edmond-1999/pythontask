@@ -1,9 +1,9 @@
-leftNumber = 27.5
-rightNumber = 2
+left_number = 27.5
+right_number = 2
 
-print("Addition:", leftNumber + rightNumber)
-print("Subtraction:", leftNumber - rightNumber)
-print("Multiplication:", leftNumber * rightNumber)
-print("Division:", leftNumber / rightNumber)
-print("Floor Division:", leftNumber // rightNumber)
-print("Exponent:", leftNumber ** rightNumber)
+print("Addition:", left_number + right_number)
+print("Subtraction:", left_number - right_number)
+print("Multiplication:", left_number * right_number)
+print("Division:", left_number / right_number)
+print("Floor Division:", left_number // right_number)
+print("Exponent:", left_number ** right_number)
